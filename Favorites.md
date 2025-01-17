@@ -1,3 +1,6 @@
-Favorite color is purple          
-Favorite singer is the weeknd     
-Favorite sport is soccer     
+- Favorite color 
+      + purple         
+- Favorite singer 
+      + Weeknd
+-  Favorite sport
+       + Soccer
