@@ -1,0 +1,36 @@
+Fri Jan 24 16:11:10 PST 2025
+Darwin campus-114-088.ucdavis.edu 20.6.0 Darwin Kernel Version 20.6.0: Mon Aug 30 06:12:20 PDT 2021; root:xnu-7195.141.6~3/RELEASE_ARM64_T8101 arm64
+TERM_PROGRAM=vscode
+TERM=xterm-256color
+SHELL=/bin/zsh
+TMPDIR=/var/folders/k4/85v6wtd95w191m6xnq7slqgc0000gn/T/
+TERM_PROGRAM_VERSION=1.96.3
+ZDOTDIR=/Users/namrazahoor
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+MallocNanoZone=0
+USER=namrazahoor
+COMMAND_MODE=unix2003
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.a5fSeo46U1/Listeners
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+USER_ZDOTDIR=/Users/namrazahoor
+__CFBundleIdentifier=com.microsoft.VSCode
+PWD=/Users/namrazahoor/Desktop/mcb185_homework
+LANG=en_US.UTF-8
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+VSCODE_INJECTION=1
+SHLVL=2
+HOME=/Users/namrazahoor
+VSCODE_GIT_ASKPASS_MAIN=/private/var/folders/k4/85v6wtd95w191m6xnq7slqgc0000gn/T/AppTranslocation/C18FE14F-A627-4106-AD78-B711956BFAED/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js
+LOGNAME=namrazahoor
+VSCODE_GIT_IPC_HANDLE=/var/folders/k4/85v6wtd95w191m6xnq7slqgc0000gn/T/vscode-git-d3b3932610.sock
+VSCODE_GIT_ASKPASS_NODE=/private/var/folders/k4/85v6wtd95w191m6xnq7slqgc0000gn/T/AppTranslocation/C18FE14F-A627-4106-AD78-B711956BFAED/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)
+GIT_ASKPASS=/private/var/folders/k4/85v6wtd95w191m6xnq7slqgc0000gn/T/AppTranslocation/C18FE14F-A627-4106-AD78-B711956BFAED/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh
+COLORTERM=truecolor
+_=/usr/bin/printenv
+Python 3.8.2
+Code
+
+/Users/namrazahoor/Code/Code:
